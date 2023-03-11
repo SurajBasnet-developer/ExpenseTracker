@@ -8,7 +8,7 @@
 
 ## Live Demo
 
--[Live Demo](https://surajbasnet-developer.github.io/ProgrammingJokes)
+-[Live Demo](https://surajbasnet-developer.github.io/ExpenseTracker)
 
 # Show your support
 
